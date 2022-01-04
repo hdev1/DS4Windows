@@ -1,3 +1,7 @@
+# Reason for this fork
+
+I'm a frequent user of the current DS4Windows. It's a good piece of software, but it has a few bugs that really hurt the experience, like two controllers showing up in some games when I plug in my controller in wired mode. I plan to fix some of those bugs and add a few features, as well as redesigning the interface to something more modern.
+
 # DS4Windows
 
 Like those other DS4 tools, but sexier.
